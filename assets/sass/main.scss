@@ -1,0 +1,93 @@
+//$visual_grid: true;
+$visual_grid_color: #B2E3EC;
+
+@import "bourbon/bourbon";
+@import "bitters/bitters";
+@import "neat/neat";
+
+// ----------------------------------
+// ----------- Variables ------------
+// ----------------------------------
+
+$small-screen: new-breakpoint(max-width 767px 12);
+$medium-screen: new-breakpoint(min-width 768px max-width 1240px 12);
+$large-screen: new-breakpoint(min-width 1241px 12);
+
+@mixin grid-item-columns($columns) {
+  @if($columns == 4) {
+    width: (100% / 12) * $columns - 1.00%;
+  }
+  @else {
+    width: (100% / 12) * $columns - 1.20%;
+  }
+}
+
+$primary-color: #a2cc96;
+$secondary-color: #bdcc97;
+$tertiary-color: #ccc096;
+$background-color: #e1e1e1;
+$example-background-color: #ffffff;
+$example-active: #9b9b9b;
+
+$border-size: 9px;
+$font-stack: 'Open Sans', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+// ----------------------------------
+// -------- General Styles ----------
+// ----------------------------------
+
+@import "highlight";
+
+body {
+    font-family: $font-stack;
+    background: $background-color;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: $font-stack;
+}
+
+h4 {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+
+a {
+    color: darken($secondary-color, 20);
+}
+
+a:hover {
+    color: darken($secondary-color, 30);
+}
+
+a:active, a.active {
+    color: darken($example-active, 30);
+}
+
+ul { @extend %default-ul }
+
+div.example-group {
+    padding-bottom: 10px;
+}
+
+strong.header {
+    color: darken($primary-color, 30);
+}
+
+section {
+  @include outer-container;
+  div.example-navigation {
+      @include span-columns(3);
+  }
+  div.content-space {
+      border-radius: 3px;
+      border: 1px solid rgba(0,0,0,0.10);
+      background: $example-background-color;
+      @include span-columns(9);
+      @include pad();
+      iframe.demo-frame {
+          width: 100%;
+          height: 350px;
+      }
+  }
+}
