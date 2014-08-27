@@ -1,13 +1,13 @@
 ---
 layout: example
-title: turf-bearing [INCOMPLETE]
+title: turf-bearing
 description: Calculates the bearing between two point features in degrees.
 tags:
     - measurement
 ---
 <div id='map'></div>
-<p id='bearing'
-    style="padding: 5px; color: #f8f8f8; background: #6BC65F; position: absolute; right: 5px; top: 5px;"> --
+<p id='bearing' class='turf-controls'
+    style="position: absolute; right: 5px; top: 5px;"> --
 </p>
 <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-draw/v0.2.2/leaflet.draw.js'></script>
 <script>
@@ -41,14 +41,13 @@ calculateBearing();
 bearing.addTo(map);
 
 function calculateBearing() {
-    console.log(turf.bearing);
     var layers = bearing.getLayers();
-    var linestring = turf.linestring([layers[0].toGeoJSON().geometry.coordinates, layers[1].toGeoJSON().geometry.coordinates], {
+    var linestring = turf.linestring([layers[1].toGeoJSON().geometry.coordinates, layers[0].toGeoJSON().geometry.coordinates], {
         "stroke": "#6BC65F",
         "stroke-width": 5
     });
     polyline.setGeoJSON(linestring);
-    var calc_bearing = turf.bearing(layers[0].toGeoJSON(), layers[1].toGeoJSON()).toFixed(3);
+    var calc_bearing = turf.bearing(layers[1].toGeoJSON(), layers[0].toGeoJSON()).toFixed(3);
     document.getElementById('bearing').innerHTML = calc_bearing;
 }
 

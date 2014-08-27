@@ -1,55 +1,57 @@
 ---
 layout: example
-title: turf-destination [INCOMPLETE]
+title: turf-destination
 description: Calculates the destination point given one point feature, distance in degrees, radians, miles, or kilometers, and bearing in degrees. This uses the haversine formula to account for global curvature.
 tags:
     - measurement
 ---
 <div id='map'></div>
-<p id='bearing'
-    style="padding: 5px; color: #f8f8f8; background: #6BC65F; position: absolute; right: 5px; top: 5px;"> --
-</p>
+<input type='text' id='bearing' class='turf-controls' title='Bearing (degrees)'
+    placeholder='Bearing (degrees)' value='90'
+    style="position: absolute; right: 5px; top: 3px; width:100px;">
+</input>
+<input type='text' id='distance' class='turf-controls' title='Distance (miles)'
+    placeholder='Distance (miles)' value='45'
+    style="position: absolute; right: 5px; top: 35px; width:100px;">
+</input>
+<button id='enter' class='turf-controls'
+    style="position: absolute; right: 5px; top: 70px;"
+onclick="calculateDestination()">find destination
+</button>
+
+
 <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-draw/v0.2.2/leaflet.draw.js'></script>
 <script>
 L.mapbox.accessToken = 'pk.eyJ1IjoianZyb3Vzc2VhdSIsImEiOiJYYUNlcVRZIn0.lp0867Jn5ynlj72kMwICSA';
 
 
-var point = turf.point(-97.502754, 35.463455, {
-    "marker-color": "#25561F",
-    "title": "End Point"
-})
-var point2 = turf.point(-97.508269, 35.463245, {
+var point = turf.point(-97.508269, 35.463245, {
     "marker-color": "#6BC65F",
     "title": "Start Point"
 });
 
-var point_fc = turf.featurecollection([point, point2]);
-
 var map = L.mapbox.map('map', 'jvrousseau.h4h90e5o')
-    .setView([35.463453, -97.508014], 15);
+    .setView([35.463453, -97.508014], 8);
 
-var bearing = L.mapbox.featureLayer().setGeoJSON(point_fc);
+var initial_point = L.mapbox.featureLayer().setGeoJSON(point).addTo(map);
 var polyline =  L.mapbox.featureLayer().addTo(map);
+var destination_point = L.mapbox.featureLayer().addTo(map);
+calculateDestination();
 
-bearing.eachLayer(function(layer) {
-    layer.options.draggable = true;
-    layer.on('drag', function(e) {
-        calculateBearing();
-    });
-});
-calculateBearing();
-bearing.addTo(map);
+function calculateDestination() {
+    var layers = initial_point.getLayers();
+    var bearing = document.getElementById('bearing').value;
+    var distance = document.getElementById('distance').value;
+    var destination = turf.destination(point, distance, bearing, 'miles');
 
-function calculateBearing() {
-    console.log(turf.bearing);
-    var layers = bearing.getLayers();
-    var linestring = turf.linestring([layers[0].toGeoJSON().geometry.coordinates, layers[1].toGeoJSON().geometry.coordinates], {
+    var linestring = turf.linestring([
+            point.geometry.coordinates,
+            destination.geometry.coordinates], {
         "stroke": "#6BC65F",
         "stroke-width": 5
     });
     polyline.setGeoJSON(linestring);
-    var calc_bearing = turf.bearing(layers[0].toGeoJSON(), layers[1].toGeoJSON()).toFixed(3);
-    document.getElementById('bearing').innerHTML = calc_bearing;
+    destination_point.setGeoJSON(destination);
 }
 
 </script>

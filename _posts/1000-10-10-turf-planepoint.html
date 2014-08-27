@@ -6,9 +6,8 @@ tags:
     - interpolation
 ---
 <div id='map'></div>
-<p id='zvalue'
-    style="padding: 5px; color: #f8f8f8; background: #6BC65F;
-        position: absolute; right: 5px; top: 5px;"> --
+<p id='zvalue' class='turf-controls'
+    style="position: absolute; right: 5px; top: 5px;"> --
 </p>
 <script>
 L.mapbox.accessToken = 'pk.eyJ1IjoianZyb3Vzc2VhdSIsImEiOiJYYUNlcVRZIn0.lp0867Jn5ynlj72kMwICSA';
@@ -36,7 +35,6 @@ var point_layer = L.mapbox.featureLayer().setGeoJSON(point_fc);
 point_layer.eachLayer(function(layer) {
     layer.options.draggable = true;
     layer.on('drag', function(e) {
-        console.log("HELLO");
         calculatePlanepoint();
     });
 });
