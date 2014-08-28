@@ -21,6 +21,7 @@ onclick="calculateDestination()">find destination
 
 
 <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-draw/v0.2.2/leaflet.draw.js'></script>
+<script src='https://rawgit.com/Fragger/Leaflet.Geodesic/master/src/L.Geodesic.js'></script>
 <script>
 L.mapbox.accessToken = 'pk.eyJ1IjoianZyb3Vzc2VhdSIsImEiOiJYYUNlcVRZIn0.lp0867Jn5ynlj72kMwICSA';
 
@@ -46,11 +47,16 @@ function calculateDestination() {
 
     var linestring = turf.linestring([
             point.geometry.coordinates,
-            destination.geometry.coordinates], {
-        "stroke": "#6BC65F",
-        "stroke-width": 5
+            destination.geometry.coordinates]);
+    var bassakwards = linestring.geometry.coordinates.map(function (element) {
+        return [element[1],element[0]];
     });
-    polyline.setGeoJSON(linestring);
+    var geodesic = new L.GeodesicPolyline(bassakwards, {
+        'color': "#6BC65F",
+        "opacity": 1,
+        'weight': 5
+    });
+    polyline.clearLayers().addLayer(geodesic);
     destination_point.setGeoJSON(destination);
 }
 

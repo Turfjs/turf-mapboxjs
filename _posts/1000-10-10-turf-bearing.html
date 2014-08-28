@@ -10,6 +10,7 @@ tags:
     style="position: absolute; right: 5px; top: 5px;"> --
 </p>
 <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-draw/v0.2.2/leaflet.draw.js'></script>
+<script src='https://rawgit.com/Fragger/Leaflet.Geodesic/master/src/L.Geodesic.js'></script>
 <script>
 L.mapbox.accessToken = 'pk.eyJ1IjoianZyb3Vzc2VhdSIsImEiOiJYYUNlcVRZIn0.lp0867Jn5ynlj72kMwICSA';
 
@@ -42,11 +43,16 @@ bearing.addTo(map);
 
 function calculateBearing() {
     var layers = bearing.getLayers();
-    var linestring = turf.linestring([layers[1].toGeoJSON().geometry.coordinates, layers[0].toGeoJSON().geometry.coordinates], {
-        "stroke": "#6BC65F",
-        "stroke-width": 5
+    var linestring = turf.linestring([layers[1].toGeoJSON().geometry.coordinates, layers[0].toGeoJSON().geometry.coordinates]);
+    var bassakwards = linestring.geometry.coordinates.map(function (element) {
+        return [element[1],element[0]];
     });
-    polyline.setGeoJSON(linestring);
+    var geodesic = new L.GeodesicPolyline(bassakwards, {
+        'color': "#6BC65F",
+        "opacity": 1,
+        'weight': 5
+    });
+    polyline.clearLayers().addLayer(geodesic);
     var calc_bearing = turf.bearing(layers[1].toGeoJSON(), layers[0].toGeoJSON()).toFixed(3);
     document.getElementById('bearing').innerHTML = calc_bearing;
 }
