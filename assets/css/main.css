@@ -469,17 +469,23 @@ section {
     float: left;
     display: block;
     margin-right: 2.35765%;
-    width: 23.23176%; }
+    width: 14.70196%;
+    overflow: auto;
+    height: 100%;
+    float: bottom;
+    bottom: 0px;
+    position: fixed; }
     section div.example-navigation:last-child {
       margin-right: 0; }
   section div.content-space {
     border-radius: 3px;
     border: 1px solid rgba(0, 0, 0, 0.1);
     background: white;
+    margin-left: 25.58941%;
     float: left;
     display: block;
     margin-right: 2.35765%;
-    width: 74.41059%;
+    width: 82.94039%;
     padding: 2.35765%; }
     section div.content-space:last-child {
       margin-right: 0; }
