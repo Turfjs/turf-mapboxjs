@@ -15,7 +15,7 @@ var linestring = turf.linestring([
     [-95, 35],
     [-124, 37]
 ], {
-    "stroke": "#6BC65F",
+    "stroke": "#25561F",
     "stroke-width": 5
 });
 
@@ -25,7 +25,7 @@ var map = L.mapbox.map('map', 'jvrousseau.h4h90e5o')
 var bezier = turf.bezier(linestring, 100, 0.85);
 
 bezier.properties = {
-    "stroke": "#25561F",
+    "stroke": "#6BC65F",
     "stroke-width": 5,
     "description": "Bezier line from polyline"
 }

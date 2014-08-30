@@ -15,7 +15,7 @@ var linestring = turf.linestring([
     [-95, 35],
     [-124, 37]
 ], {
-    "stroke": "#6BC65F",
+    "stroke": "#25561F",
     "stroke-width": 5
 });
 
@@ -25,8 +25,8 @@ var map = L.mapbox.map('map', 'jvrousseau.h4h90e5o')
 var buffer = turf.buffer(linestring, 50, "miles");
 
 buffer.features[0].properties = {
-    "fill": "#25561F",
-    "stroke": "#25561F",
+    "fill": "#6BC65F",
+    "stroke": "#6BC65F",
     "stroke-width": 5,
     "description": "50 miles buffer from polyline"
 }
