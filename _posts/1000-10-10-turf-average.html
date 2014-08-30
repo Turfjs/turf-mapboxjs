@@ -23,7 +23,8 @@ var polys = [
     ], {
         "fill": "#6BC65F",
         "stroke": "#6BC65F",
-        "stroke-width": 5
+        "stroke-width": 5,
+        "title": "Avergae pressure of points in poly"
     }),
     turf.polygon([[
         [-123.74999999999999, 29.075375179558346],
@@ -34,14 +35,15 @@ var polys = [
     ], {
         "fill": "#25561F",
         "stroke": "#25561F",
-        "stroke-width": 5
+        "stroke-width": 5,
+        "title": "Avergae pressure of points in poly"
     })
 ];
 var poly_fc = turf.featurecollection(polys);
 var points_layer = L.mapbox.featureLayer().loadURL('{{site.baseurl}}/assets/js/pressure.json').addTo(map);
 points_layer.on('ready', function () {
 
-var average = turf.average(poly_fc, points_layer.toGeoJSON(), 'pressure', 'title');
+var average = turf.average(poly_fc, points_layer.toGeoJSON(), 'pressure', 'description');
     /*var isolines = turf.isolines(points_layer.toGeoJSON(), 'pressure', resolution, breaks);
     isolines.features.forEach(function (feature) {
         feature.properties["stroke"] = "#25561F";
