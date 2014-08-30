@@ -1,7 +1,7 @@
 ---
 layout: example
 title: turf-average
-descrition: Calculates the average value of a field for points within a set of polygons.
+description: Calculates the average value of a field for points within a set of polygons.
 tags:
     - aggregation
 ---
@@ -44,12 +44,7 @@ var points_layer = L.mapbox.featureLayer().loadURL('{{site.baseurl}}/assets/js/p
 points_layer.on('ready', function () {
 
 var average = turf.average(poly_fc, points_layer.toGeoJSON(), 'pressure', 'description');
-    /*var isolines = turf.isolines(points_layer.toGeoJSON(), 'pressure', resolution, breaks);
-    isolines.features.forEach(function (feature) {
-        feature.properties["stroke"] = "#25561F";
-        feature.properties["stroke-width"] = 5;
-    });*/
-    console.log(average);
-    L.mapbox.featureLayer().setGeoJSON(average).addTo(map);
+
+L.mapbox.featureLayer().setGeoJSON(average).addTo(map);
 });
 </script>
