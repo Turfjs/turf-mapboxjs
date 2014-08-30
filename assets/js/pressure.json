@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "pressure": "1012.2",
+        "pressure": 1012.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -26,7 +26,7 @@
         ]
       },
       "properties": {
-        "pressure": "1012.1",
+        "pressure": 1012.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -41,7 +41,7 @@
         ]
       },
       "properties": {
-        "pressure": "1013.2",
+        "pressure": 1013.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -56,7 +56,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.9",
+        "pressure": 1017.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -71,7 +71,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.8",
+        "pressure": 1015.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -86,7 +86,7 @@
         ]
       },
       "properties": {
-        "pressure": "1013.2",
+        "pressure": 1013.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -101,7 +101,7 @@
         ]
       },
       "properties": {
-        "pressure": "1013.4",
+        "pressure": 1013.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -116,7 +116,7 @@
         ]
       },
       "properties": {
-        "pressure": "1013.5",
+        "pressure": 1013.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -131,7 +131,7 @@
         ]
       },
       "properties": {
-        "pressure": "1012.6",
+        "pressure": 1012.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -146,7 +146,7 @@
         ]
       },
       "properties": {
-        "pressure": "1013.7",
+        "pressure": 1013.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -161,7 +161,7 @@
         ]
       },
       "properties": {
-        "pressure": "1013.4",
+        "pressure": 1013.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -176,7 +176,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.6",
+        "pressure": 1017.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -191,7 +191,7 @@
         ]
       },
       "properties": {
-        "pressure": "1013.4",
+        "pressure": 1013.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -206,7 +206,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.5",
+        "pressure": 1018.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -221,7 +221,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.7",
+        "pressure": 1015.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -236,7 +236,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.2",
+        "pressure": 1016.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -251,7 +251,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.1",
+        "pressure": 1016.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -266,7 +266,7 @@
         ]
       },
       "properties": {
-        "pressure": "1012.9",
+        "pressure": 1012.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -281,7 +281,7 @@
         ]
       },
       "properties": {
-        "pressure": "1011.4",
+        "pressure": 1011.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -296,7 +296,7 @@
         ]
       },
       "properties": {
-        "pressure": "1012.5",
+        "pressure": 1012.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -311,7 +311,7 @@
         ]
       },
       "properties": {
-        "pressure": "1012.3",
+        "pressure": 1012.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -326,7 +326,7 @@
         ]
       },
       "properties": {
-        "pressure": "1013",
+        "pressure": 1013,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -341,7 +341,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014",
+        "pressure": 1014,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -356,7 +356,7 @@
         ]
       },
       "properties": {
-        "pressure": "1013.8",
+        "pressure": 1013.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -371,7 +371,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.1",
+        "pressure": 1014.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -386,7 +386,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.7",
+        "pressure": 1014.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -401,7 +401,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021",
+        "pressure": 1021,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -416,7 +416,7 @@
         ]
       },
       "properties": {
-        "pressure": "1012.6",
+        "pressure": 1012.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -431,7 +431,7 @@
         ]
       },
       "properties": {
-        "pressure": "1012.5",
+        "pressure": 1012.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -446,7 +446,7 @@
         ]
       },
       "properties": {
-        "pressure": "1024.9",
+        "pressure": 1024.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -461,7 +461,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.7",
+        "pressure": 1017.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -476,7 +476,7 @@
         ]
       },
       "properties": {
-        "pressure": "1013.5",
+        "pressure": 1013.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -491,7 +491,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.4",
+        "pressure": 1015.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -506,7 +506,7 @@
         ]
       },
       "properties": {
-        "pressure": "1013.2",
+        "pressure": 1013.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -521,7 +521,7 @@
         ]
       },
       "properties": {
-        "pressure": "1013.8",
+        "pressure": 1013.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -536,7 +536,7 @@
         ]
       },
       "properties": {
-        "pressure": "1013",
+        "pressure": 1013,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -551,7 +551,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.7",
+        "pressure": 1014.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -566,7 +566,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014",
+        "pressure": 1014,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -581,7 +581,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014",
+        "pressure": 1014,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -596,7 +596,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015",
+        "pressure": 1015,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -611,7 +611,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.7",
+        "pressure": 1014.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -626,7 +626,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.4",
+        "pressure": 1015.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -641,7 +641,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.6",
+        "pressure": 1014.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -656,7 +656,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.8",
+        "pressure": 1015.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -671,7 +671,7 @@
         ]
       },
       "properties": {
-        "pressure": "1010.6",
+        "pressure": 1010.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -686,7 +686,7 @@
         ]
       },
       "properties": {
-        "pressure": "1013.5",
+        "pressure": 1013.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -701,7 +701,7 @@
         ]
       },
       "properties": {
-        "pressure": "1013.9",
+        "pressure": 1013.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -716,7 +716,7 @@
         ]
       },
       "properties": {
-        "pressure": "1012.3",
+        "pressure": 1012.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -731,7 +731,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.5",
+        "pressure": 1014.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -746,7 +746,7 @@
         ]
       },
       "properties": {
-        "pressure": "1012.9",
+        "pressure": 1012.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -761,7 +761,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.5",
+        "pressure": 1019.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -776,7 +776,7 @@
         ]
       },
       "properties": {
-        "pressure": "1012.9",
+        "pressure": 1012.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -791,7 +791,7 @@
         ]
       },
       "properties": {
-        "pressure": "1012.4",
+        "pressure": 1012.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -806,7 +806,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.6",
+        "pressure": 1014.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -821,7 +821,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014",
+        "pressure": 1014,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -836,7 +836,7 @@
         ]
       },
       "properties": {
-        "pressure": "1012.2",
+        "pressure": 1012.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -851,7 +851,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.3",
+        "pressure": 1014.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -866,7 +866,7 @@
         ]
       },
       "properties": {
-        "pressure": "1011",
+        "pressure": 1011,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -881,7 +881,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.4",
+        "pressure": 1014.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -896,7 +896,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.2",
+        "pressure": 1014.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -911,7 +911,7 @@
         ]
       },
       "properties": {
-        "pressure": "1013.9",
+        "pressure": 1013.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -926,7 +926,7 @@
         ]
       },
       "properties": {
-        "pressure": "1010.8",
+        "pressure": 1010.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -941,7 +941,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.4",
+        "pressure": 1014.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -956,7 +956,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016",
+        "pressure": 1016,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -971,7 +971,7 @@
         ]
       },
       "properties": {
-        "pressure": "1012.8",
+        "pressure": 1012.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -986,7 +986,7 @@
         ]
       },
       "properties": {
-        "pressure": "1011.7",
+        "pressure": 1011.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1001,7 +1001,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.7",
+        "pressure": 1019.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1016,7 +1016,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.5",
+        "pressure": 1015.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1031,7 +1031,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.3",
+        "pressure": 1015.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1046,7 +1046,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.7",
+        "pressure": 1014.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1061,7 +1061,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.6",
+        "pressure": 1014.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1076,7 +1076,7 @@
         ]
       },
       "properties": {
-        "pressure": "1013.5",
+        "pressure": 1013.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1091,7 +1091,7 @@
         ]
       },
       "properties": {
-        "pressure": "1012.9",
+        "pressure": 1012.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1106,7 +1106,7 @@
         ]
       },
       "properties": {
-        "pressure": "1013.5",
+        "pressure": 1013.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1121,7 +1121,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.9",
+        "pressure": 1014.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1136,7 +1136,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.2",
+        "pressure": 1015.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1151,7 +1151,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.9",
+        "pressure": 1014.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1166,7 +1166,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.9",
+        "pressure": 1014.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1181,7 +1181,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.3",
+        "pressure": 1014.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1196,7 +1196,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.3",
+        "pressure": 1015.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1211,7 +1211,7 @@
         ]
       },
       "properties": {
-        "pressure": "1011.9",
+        "pressure": 1011.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1226,7 +1226,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.4",
+        "pressure": 1016.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1241,7 +1241,7 @@
         ]
       },
       "properties": {
-        "pressure": "1011.6",
+        "pressure": 1011.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1256,7 +1256,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.6",
+        "pressure": 1017.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1271,7 +1271,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.4",
+        "pressure": 1015.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1286,7 +1286,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.1",
+        "pressure": 1015.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1301,7 +1301,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.6",
+        "pressure": 1014.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1316,7 +1316,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.4",
+        "pressure": 1015.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1331,7 +1331,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.2",
+        "pressure": 1015.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1346,7 +1346,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.6",
+        "pressure": 1015.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1361,7 +1361,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.3",
+        "pressure": 1016.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1376,7 +1376,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.9",
+        "pressure": 1015.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1391,7 +1391,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.6",
+        "pressure": 1016.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1406,7 +1406,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.9",
+        "pressure": 1015.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1421,7 +1421,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.9",
+        "pressure": 1015.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1436,7 +1436,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016",
+        "pressure": 1016,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1451,7 +1451,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.7",
+        "pressure": 1015.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1466,7 +1466,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.1",
+        "pressure": 1015.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1481,7 +1481,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.5",
+        "pressure": 1014.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1496,7 +1496,7 @@
         ]
       },
       "properties": {
-        "pressure": "1011.7",
+        "pressure": 1011.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1511,7 +1511,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.6",
+        "pressure": 1016.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1526,7 +1526,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.6",
+        "pressure": 1019.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1541,7 +1541,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.5",
+        "pressure": 1014.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1556,7 +1556,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.9",
+        "pressure": 1014.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1571,7 +1571,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.2",
+        "pressure": 1015.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1586,7 +1586,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.3",
+        "pressure": 1015.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1601,7 +1601,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.9",
+        "pressure": 1015.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1616,7 +1616,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.3",
+        "pressure": 1016.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1631,7 +1631,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.8",
+        "pressure": 1015.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1646,7 +1646,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.7",
+        "pressure": 1016.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1661,7 +1661,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.6",
+        "pressure": 1016.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1676,7 +1676,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.7",
+        "pressure": 1016.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1691,7 +1691,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.4",
+        "pressure": 1017.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1706,7 +1706,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.3",
+        "pressure": 1017.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1721,7 +1721,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.6",
+        "pressure": 1018.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1736,7 +1736,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.6",
+        "pressure": 1017.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1751,7 +1751,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.9",
+        "pressure": 1016.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1766,7 +1766,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.6",
+        "pressure": 1016.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1781,7 +1781,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.5",
+        "pressure": 1016.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1796,7 +1796,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015",
+        "pressure": 1015,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1811,7 +1811,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.1",
+        "pressure": 1017.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1826,7 +1826,7 @@
         ]
       },
       "properties": {
-        "pressure": "1012.1",
+        "pressure": 1012.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1841,7 +1841,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.5",
+        "pressure": 1015.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1856,7 +1856,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.2",
+        "pressure": 1016.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1871,7 +1871,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.8",
+        "pressure": 1018.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1886,7 +1886,7 @@
         ]
       },
       "properties": {
-        "pressure": "1022",
+        "pressure": 1022,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1901,7 +1901,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.3",
+        "pressure": 1015.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1916,7 +1916,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.7",
+        "pressure": 1015.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1931,7 +1931,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.9",
+        "pressure": 1017.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1946,7 +1946,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.2",
+        "pressure": 1015.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1961,7 +1961,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.7",
+        "pressure": 1020.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1976,7 +1976,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.5",
+        "pressure": 1016.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -1991,7 +1991,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.3",
+        "pressure": 1019.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2006,7 +2006,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.5",
+        "pressure": 1017.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2021,7 +2021,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.7",
+        "pressure": 1017.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2036,7 +2036,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017",
+        "pressure": 1017,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2051,7 +2051,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.1",
+        "pressure": 1017.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2066,7 +2066,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.3",
+        "pressure": 1018.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2081,7 +2081,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.3",
+        "pressure": 1017.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2096,7 +2096,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.8",
+        "pressure": 1017.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2111,7 +2111,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.1",
+        "pressure": 1018.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2126,7 +2126,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.5",
+        "pressure": 1018.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2141,7 +2141,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.6",
+        "pressure": 1018.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2156,7 +2156,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.5",
+        "pressure": 1018.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2171,7 +2171,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.8",
+        "pressure": 1017.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2186,7 +2186,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.4",
+        "pressure": 1017.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2201,7 +2201,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.9",
+        "pressure": 1016.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2216,7 +2216,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.9",
+        "pressure": 1016.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2231,7 +2231,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.5",
+        "pressure": 1016.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2246,7 +2246,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015",
+        "pressure": 1015,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2261,7 +2261,7 @@
         ]
       },
       "properties": {
-        "pressure": "1013.8",
+        "pressure": 1013.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2276,7 +2276,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.2",
+        "pressure": 1015.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2291,7 +2291,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.5",
+        "pressure": 1014.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2306,7 +2306,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017",
+        "pressure": 1017,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2321,7 +2321,7 @@
         ]
       },
       "properties": {
-        "pressure": "1023.7",
+        "pressure": 1023.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2336,7 +2336,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.5",
+        "pressure": 1016.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2351,7 +2351,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.1",
+        "pressure": 1017.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2366,7 +2366,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.6",
+        "pressure": 1016.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2381,7 +2381,7 @@
         ]
       },
       "properties": {
-        "pressure": "1022.4",
+        "pressure": 1022.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2396,7 +2396,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.3",
+        "pressure": 1020.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2411,7 +2411,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.1",
+        "pressure": 1016.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2426,7 +2426,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.6",
+        "pressure": 1016.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2441,7 +2441,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.2",
+        "pressure": 1017.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2456,7 +2456,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.6",
+        "pressure": 1018.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2471,7 +2471,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.4",
+        "pressure": 1017.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2486,7 +2486,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.4",
+        "pressure": 1018.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2501,7 +2501,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018",
+        "pressure": 1018,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2516,7 +2516,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.9",
+        "pressure": 1017.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2531,7 +2531,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.2",
+        "pressure": 1018.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2546,7 +2546,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.2",
+        "pressure": 1019.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2561,7 +2561,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.7",
+        "pressure": 1018.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2576,7 +2576,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.1",
+        "pressure": 1020.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2591,7 +2591,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.6",
+        "pressure": 1019.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2606,7 +2606,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.4",
+        "pressure": 1018.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2621,7 +2621,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.1",
+        "pressure": 1017.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2636,7 +2636,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016",
+        "pressure": 1016,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2651,7 +2651,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019",
+        "pressure": 1019,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2666,7 +2666,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.7",
+        "pressure": 1017.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2681,7 +2681,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.7",
+        "pressure": 1016.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2696,7 +2696,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.7",
+        "pressure": 1016.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2711,7 +2711,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016",
+        "pressure": 1016,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2726,7 +2726,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017",
+        "pressure": 1017,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2741,7 +2741,7 @@
         ]
       },
       "properties": {
-        "pressure": "1013.4",
+        "pressure": 1013.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2756,7 +2756,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.9",
+        "pressure": 1019.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2771,7 +2771,7 @@
         ]
       },
       "properties": {
-        "pressure": "1014.7",
+        "pressure": 1014.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2786,7 +2786,7 @@
         ]
       },
       "properties": {
-        "pressure": "1030.5",
+        "pressure": 1030.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2801,7 +2801,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.5",
+        "pressure": 1018.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2816,7 +2816,7 @@
         ]
       },
       "properties": {
-        "pressure": "1025.4",
+        "pressure": 1025.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2831,7 +2831,7 @@
         ]
       },
       "properties": {
-        "pressure": "1027.8",
+        "pressure": 1027.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2846,7 +2846,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019",
+        "pressure": 1019,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2861,7 +2861,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.3",
+        "pressure": 1018.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2876,7 +2876,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.9",
+        "pressure": 1015.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2891,7 +2891,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.4",
+        "pressure": 1016.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2906,7 +2906,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.9",
+        "pressure": 1016.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2921,7 +2921,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019",
+        "pressure": 1019,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2936,7 +2936,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.8",
+        "pressure": 1018.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2951,7 +2951,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.9",
+        "pressure": 1017.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2966,7 +2966,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.1",
+        "pressure": 1019.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2981,7 +2981,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.8",
+        "pressure": 1018.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -2996,7 +2996,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.6",
+        "pressure": 1019.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3011,7 +3011,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.8",
+        "pressure": 1018.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3026,7 +3026,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.2",
+        "pressure": 1019.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3041,7 +3041,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.5",
+        "pressure": 1019.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3056,7 +3056,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.6",
+        "pressure": 1019.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3071,7 +3071,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.3",
+        "pressure": 1019.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3086,7 +3086,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.2",
+        "pressure": 1018.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3101,7 +3101,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.9",
+        "pressure": 1017.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3116,7 +3116,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.1",
+        "pressure": 1016.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3131,7 +3131,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.3",
+        "pressure": 1016.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3146,7 +3146,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.8",
+        "pressure": 1016.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3161,7 +3161,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.9",
+        "pressure": 1016.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3176,7 +3176,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.9",
+        "pressure": 1017.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3191,7 +3191,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.6",
+        "pressure": 1016.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3206,7 +3206,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.9",
+        "pressure": 1016.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3221,7 +3221,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.4",
+        "pressure": 1015.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3236,7 +3236,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.9",
+        "pressure": 1015.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3251,7 +3251,7 @@
         ]
       },
       "properties": {
-        "pressure": "1028.8",
+        "pressure": 1028.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3266,7 +3266,7 @@
         ]
       },
       "properties": {
-        "pressure": "1029.8",
+        "pressure": 1029.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3281,7 +3281,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.3",
+        "pressure": 1020.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3296,7 +3296,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020",
+        "pressure": 1020,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3311,7 +3311,7 @@
         ]
       },
       "properties": {
-        "pressure": "1027.8",
+        "pressure": 1027.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3326,7 +3326,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.6",
+        "pressure": 1016.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3341,7 +3341,7 @@
         ]
       },
       "properties": {
-        "pressure": "1022.4",
+        "pressure": 1022.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3356,7 +3356,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.8",
+        "pressure": 1016.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3371,7 +3371,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.1",
+        "pressure": 1018.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3386,7 +3386,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.3",
+        "pressure": 1018.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3401,7 +3401,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.2",
+        "pressure": 1018.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3416,7 +3416,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.2",
+        "pressure": 1018.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3431,7 +3431,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.4",
+        "pressure": 1018.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3446,7 +3446,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.2",
+        "pressure": 1019.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3461,7 +3461,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019",
+        "pressure": 1019,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3476,7 +3476,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.8",
+        "pressure": 1018.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3491,7 +3491,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.2",
+        "pressure": 1019.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3506,7 +3506,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.1",
+        "pressure": 1019.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3521,7 +3521,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.7",
+        "pressure": 1019.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3536,7 +3536,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.6",
+        "pressure": 1019.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3551,7 +3551,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.1",
+        "pressure": 1020.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3566,7 +3566,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.4",
+        "pressure": 1019.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3581,7 +3581,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019",
+        "pressure": 1019,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3596,7 +3596,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.2",
+        "pressure": 1018.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3611,7 +3611,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.6",
+        "pressure": 1016.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3626,7 +3626,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015",
+        "pressure": 1015,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3641,7 +3641,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.7",
+        "pressure": 1017.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3656,7 +3656,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.9",
+        "pressure": 1018.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3671,7 +3671,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.7",
+        "pressure": 1016.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3686,7 +3686,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.2",
+        "pressure": 1018.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3701,7 +3701,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.9",
+        "pressure": 1015.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3716,7 +3716,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.6",
+        "pressure": 1017.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3731,7 +3731,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021.1",
+        "pressure": 1021.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3746,7 +3746,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.2",
+        "pressure": 1020.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3761,7 +3761,7 @@
         ]
       },
       "properties": {
-        "pressure": "1029.8",
+        "pressure": 1029.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3776,7 +3776,7 @@
         ]
       },
       "properties": {
-        "pressure": "1023.7",
+        "pressure": 1023.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3791,7 +3791,7 @@
         ]
       },
       "properties": {
-        "pressure": "1023.5",
+        "pressure": 1023.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3806,7 +3806,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.8",
+        "pressure": 1020.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3821,7 +3821,7 @@
         ]
       },
       "properties": {
-        "pressure": "1025.4",
+        "pressure": 1025.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3836,7 +3836,7 @@
         ]
       },
       "properties": {
-        "pressure": "1023",
+        "pressure": 1023,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3851,7 +3851,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021",
+        "pressure": 1021,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3866,7 +3866,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.2",
+        "pressure": 1017.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3881,7 +3881,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.7",
+        "pressure": 1020.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3896,7 +3896,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.4",
+        "pressure": 1018.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3911,7 +3911,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.7",
+        "pressure": 1018.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3926,7 +3926,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.3",
+        "pressure": 1019.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3941,7 +3941,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.1",
+        "pressure": 1019.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3956,7 +3956,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.3",
+        "pressure": 1020.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3971,7 +3971,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021",
+        "pressure": 1021,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -3986,7 +3986,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.8",
+        "pressure": 1018.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4001,7 +4001,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.2",
+        "pressure": 1019.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4016,7 +4016,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.1",
+        "pressure": 1019.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4031,7 +4031,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020",
+        "pressure": 1020,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4046,7 +4046,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.6",
+        "pressure": 1019.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4061,7 +4061,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020",
+        "pressure": 1020,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4076,7 +4076,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.5",
+        "pressure": 1020.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4091,7 +4091,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.7",
+        "pressure": 1019.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4106,7 +4106,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.7",
+        "pressure": 1018.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4121,7 +4121,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.6",
+        "pressure": 1017.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4136,7 +4136,7 @@
         ]
       },
       "properties": {
-        "pressure": "1025.9",
+        "pressure": 1025.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4151,7 +4151,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.3",
+        "pressure": 1020.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4166,7 +4166,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.1",
+        "pressure": 1018.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4181,7 +4181,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017",
+        "pressure": 1017,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4196,7 +4196,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.8",
+        "pressure": 1016.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4211,7 +4211,7 @@
         ]
       },
       "properties": {
-        "pressure": "1023.3",
+        "pressure": 1023.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4226,7 +4226,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.2",
+        "pressure": 1020.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4241,7 +4241,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.4",
+        "pressure": 1019.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4256,7 +4256,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020",
+        "pressure": 1020,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4271,7 +4271,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021.2",
+        "pressure": 1021.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4286,7 +4286,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.2",
+        "pressure": 1017.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4301,7 +4301,7 @@
         ]
       },
       "properties": {
-        "pressure": "1023.7",
+        "pressure": 1023.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4316,7 +4316,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.8",
+        "pressure": 1019.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4331,7 +4331,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.4",
+        "pressure": 1018.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4346,7 +4346,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.8",
+        "pressure": 1016.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4361,7 +4361,7 @@
         ]
       },
       "properties": {
-        "pressure": "1024.4",
+        "pressure": 1024.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4376,7 +4376,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.8",
+        "pressure": 1015.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4391,7 +4391,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020",
+        "pressure": 1020,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4406,7 +4406,7 @@
         ]
       },
       "properties": {
-        "pressure": "1023.2",
+        "pressure": 1023.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4421,7 +4421,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020",
+        "pressure": 1020,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4436,7 +4436,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.5",
+        "pressure": 1018.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4451,7 +4451,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.2",
+        "pressure": 1019.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4466,7 +4466,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019",
+        "pressure": 1019,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4481,7 +4481,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.6",
+        "pressure": 1018.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4496,7 +4496,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.3",
+        "pressure": 1018.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4511,7 +4511,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020",
+        "pressure": 1020,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4526,7 +4526,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020",
+        "pressure": 1020,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4541,7 +4541,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019",
+        "pressure": 1019,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4556,7 +4556,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.9",
+        "pressure": 1018.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4571,7 +4571,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.6",
+        "pressure": 1018.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4586,7 +4586,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.3",
+        "pressure": 1019.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4601,7 +4601,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.6",
+        "pressure": 1019.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4616,7 +4616,7 @@
         ]
       },
       "properties": {
-        "pressure": "1022",
+        "pressure": 1022,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4631,7 +4631,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019",
+        "pressure": 1019,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4646,7 +4646,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.6",
+        "pressure": 1018.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4661,7 +4661,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.2",
+        "pressure": 1018.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4676,7 +4676,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020",
+        "pressure": 1020,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4691,7 +4691,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.3",
+        "pressure": 1018.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4706,7 +4706,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.6",
+        "pressure": 1016.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4721,7 +4721,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018",
+        "pressure": 1018,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4736,7 +4736,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.4",
+        "pressure": 1019.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4751,7 +4751,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019",
+        "pressure": 1019,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4766,7 +4766,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.7",
+        "pressure": 1020.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4781,7 +4781,7 @@
         ]
       },
       "properties": {
-        "pressure": "1022.5",
+        "pressure": 1022.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4796,7 +4796,7 @@
         ]
       },
       "properties": {
-        "pressure": "1023.6",
+        "pressure": 1023.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4811,7 +4811,7 @@
         ]
       },
       "properties": {
-        "pressure": "1024.4",
+        "pressure": 1024.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4826,7 +4826,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019",
+        "pressure": 1019,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4841,7 +4841,7 @@
         ]
       },
       "properties": {
-        "pressure": "1026.4",
+        "pressure": 1026.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4856,7 +4856,7 @@
         ]
       },
       "properties": {
-        "pressure": "1026.1",
+        "pressure": 1026.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4871,7 +4871,7 @@
         ]
       },
       "properties": {
-        "pressure": "1022.7",
+        "pressure": 1022.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4886,7 +4886,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.7",
+        "pressure": 1015.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4901,7 +4901,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.5",
+        "pressure": 1016.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4916,7 +4916,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.6",
+        "pressure": 1017.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4931,7 +4931,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.3",
+        "pressure": 1020.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4946,7 +4946,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.8",
+        "pressure": 1018.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4961,7 +4961,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.4",
+        "pressure": 1018.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4976,7 +4976,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021",
+        "pressure": 1021,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -4991,7 +4991,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.3",
+        "pressure": 1019.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5006,7 +5006,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021.4",
+        "pressure": 1021.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5021,7 +5021,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.2",
+        "pressure": 1019.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5036,7 +5036,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.1",
+        "pressure": 1020.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5051,7 +5051,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.7",
+        "pressure": 1019.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5066,7 +5066,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.5",
+        "pressure": 1019.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5081,7 +5081,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.1",
+        "pressure": 1019.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5096,7 +5096,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.5",
+        "pressure": 1018.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5111,7 +5111,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018",
+        "pressure": 1018,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5126,7 +5126,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.3",
+        "pressure": 1018.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5141,7 +5141,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.8",
+        "pressure": 1018.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5156,7 +5156,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.8",
+        "pressure": 1018.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5171,7 +5171,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.5",
+        "pressure": 1017.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5186,7 +5186,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.6",
+        "pressure": 1017.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5201,7 +5201,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019",
+        "pressure": 1019,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5216,7 +5216,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.1",
+        "pressure": 1018.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5231,7 +5231,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.3",
+        "pressure": 1019.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5246,7 +5246,7 @@
         ]
       },
       "properties": {
-        "pressure": "1009.2",
+        "pressure": 1009.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5261,7 +5261,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.1",
+        "pressure": 1020.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5276,7 +5276,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.8",
+        "pressure": 1019.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5291,7 +5291,7 @@
         ]
       },
       "properties": {
-        "pressure": "1022.1",
+        "pressure": 1022.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5306,7 +5306,7 @@
         ]
       },
       "properties": {
-        "pressure": "1023.7",
+        "pressure": 1023.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5321,7 +5321,7 @@
         ]
       },
       "properties": {
-        "pressure": "1023.9",
+        "pressure": 1023.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5336,7 +5336,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.3",
+        "pressure": 1019.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5351,7 +5351,7 @@
         ]
       },
       "properties": {
-        "pressure": "1027.8",
+        "pressure": 1027.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5366,7 +5366,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021.7",
+        "pressure": 1021.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5381,7 +5381,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.7",
+        "pressure": 1018.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5396,7 +5396,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.7",
+        "pressure": 1017.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5411,7 +5411,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.2",
+        "pressure": 1016.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5426,7 +5426,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.1",
+        "pressure": 1017.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5441,7 +5441,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.7",
+        "pressure": 1020.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5456,7 +5456,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.9",
+        "pressure": 1018.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5471,7 +5471,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021.3",
+        "pressure": 1021.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5486,7 +5486,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021",
+        "pressure": 1021,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5501,7 +5501,7 @@
         ]
       },
       "properties": {
-        "pressure": "1022",
+        "pressure": 1022,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5516,7 +5516,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.5",
+        "pressure": 1020.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5531,7 +5531,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021.5",
+        "pressure": 1021.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5546,7 +5546,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021.1",
+        "pressure": 1021.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5561,7 +5561,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021.2",
+        "pressure": 1021.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5576,7 +5576,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.2",
+        "pressure": 1020.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5591,7 +5591,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.8",
+        "pressure": 1019.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5606,7 +5606,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.6",
+        "pressure": 1019.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5621,7 +5621,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020",
+        "pressure": 1020,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5636,7 +5636,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020",
+        "pressure": 1020,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5651,7 +5651,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.2",
+        "pressure": 1019.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5666,7 +5666,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019",
+        "pressure": 1019,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5681,7 +5681,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.6",
+        "pressure": 1019.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5696,7 +5696,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.6",
+        "pressure": 1018.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5711,7 +5711,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017",
+        "pressure": 1017,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5726,7 +5726,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021",
+        "pressure": 1021,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5741,7 +5741,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.3",
+        "pressure": 1019.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5756,7 +5756,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.2",
+        "pressure": 1017.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5771,7 +5771,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.9",
+        "pressure": 1018.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5786,7 +5786,7 @@
         ]
       },
       "properties": {
-        "pressure": "1024.7",
+        "pressure": 1024.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5801,7 +5801,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.4",
+        "pressure": 1019.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5816,7 +5816,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021.1",
+        "pressure": 1021.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5831,7 +5831,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.2",
+        "pressure": 1018.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5846,7 +5846,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.3",
+        "pressure": 1018.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5861,7 +5861,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.2",
+        "pressure": 1020.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5876,7 +5876,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021",
+        "pressure": 1021,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5891,7 +5891,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.2",
+        "pressure": 1020.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5906,7 +5906,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.1",
+        "pressure": 1018.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5921,7 +5921,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.4",
+        "pressure": 1017.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5936,7 +5936,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.6",
+        "pressure": 1017.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5951,7 +5951,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021.7",
+        "pressure": 1021.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5966,7 +5966,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.4",
+        "pressure": 1018.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5981,7 +5981,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021.7",
+        "pressure": 1021.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -5996,7 +5996,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.1",
+        "pressure": 1018.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6011,7 +6011,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.7",
+        "pressure": 1020.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6026,7 +6026,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021.7",
+        "pressure": 1021.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6041,7 +6041,7 @@
         ]
       },
       "properties": {
-        "pressure": "1022.7",
+        "pressure": 1022.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6056,7 +6056,7 @@
         ]
       },
       "properties": {
-        "pressure": "1023",
+        "pressure": 1023,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6071,7 +6071,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021.6",
+        "pressure": 1021.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6086,7 +6086,7 @@
         ]
       },
       "properties": {
-        "pressure": "1022.4",
+        "pressure": 1022.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6101,7 +6101,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021.7",
+        "pressure": 1021.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6116,7 +6116,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021.1",
+        "pressure": 1021.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6131,7 +6131,7 @@
         ]
       },
       "properties": {
-        "pressure": "1022",
+        "pressure": 1022,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6146,7 +6146,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021.2",
+        "pressure": 1021.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6161,7 +6161,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021.3",
+        "pressure": 1021.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6176,7 +6176,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.1",
+        "pressure": 1020.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6191,7 +6191,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.7",
+        "pressure": 1019.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6206,7 +6206,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.2",
+        "pressure": 1019.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6221,7 +6221,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.8",
+        "pressure": 1017.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6236,7 +6236,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.5",
+        "pressure": 1017.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6251,7 +6251,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.3",
+        "pressure": 1016.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6266,7 +6266,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.6",
+        "pressure": 1019.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6281,7 +6281,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.6",
+        "pressure": 1017.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6296,7 +6296,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.4",
+        "pressure": 1018.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6311,7 +6311,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021.7",
+        "pressure": 1021.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6326,7 +6326,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.3",
+        "pressure": 1020.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6341,7 +6341,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.4",
+        "pressure": 1020.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6356,7 +6356,7 @@
         ]
       },
       "properties": {
-        "pressure": "1020.9",
+        "pressure": 1020.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6371,7 +6371,7 @@
         ]
       },
       "properties": {
-        "pressure": "1022.2",
+        "pressure": 1022.2,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6386,7 +6386,7 @@
         ]
       },
       "properties": {
-        "pressure": "1026.8",
+        "pressure": 1026.8,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6401,7 +6401,7 @@
         ]
       },
       "properties": {
-        "pressure": "1022.4",
+        "pressure": 1022.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6416,7 +6416,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.7",
+        "pressure": 1018.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6431,7 +6431,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.4",
+        "pressure": 1018.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6446,7 +6446,7 @@
         ]
       },
       "properties": {
-        "pressure": "1022",
+        "pressure": 1022,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6461,7 +6461,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.5",
+        "pressure": 1019.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6476,7 +6476,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.1",
+        "pressure": 1019.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6491,7 +6491,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.6",
+        "pressure": 1019.6,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6506,7 +6506,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021.5",
+        "pressure": 1021.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6521,7 +6521,7 @@
         ]
       },
       "properties": {
-        "pressure": "1022.7",
+        "pressure": 1022.7,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6536,7 +6536,7 @@
         ]
       },
       "properties": {
-        "pressure": "1023.1",
+        "pressure": 1023.1,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6551,7 +6551,7 @@
         ]
       },
       "properties": {
-        "pressure": "1023.4",
+        "pressure": 1023.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6566,7 +6566,7 @@
         ]
       },
       "properties": {
-        "pressure": "1023",
+        "pressure": 1023,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6581,7 +6581,7 @@
         ]
       },
       "properties": {
-        "pressure": "1022.9",
+        "pressure": 1022.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6596,7 +6596,7 @@
         ]
       },
       "properties": {
-        "pressure": "1023.4",
+        "pressure": 1023.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6611,7 +6611,7 @@
         ]
       },
       "properties": {
-        "pressure": "1022.5",
+        "pressure": 1022.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6626,7 +6626,7 @@
         ]
       },
       "properties": {
-        "pressure": "1022.4",
+        "pressure": 1022.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6641,7 +6641,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021.5",
+        "pressure": 1021.5,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6656,7 +6656,7 @@
         ]
       },
       "properties": {
-        "pressure": "1022.4",
+        "pressure": 1022.4,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6671,7 +6671,7 @@
         ]
       },
       "properties": {
-        "pressure": "1021",
+        "pressure": 1021,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6686,7 +6686,7 @@
         ]
       },
       "properties": {
-        "pressure": "1019.3",
+        "pressure": 1019.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6701,7 +6701,7 @@
         ]
       },
       "properties": {
-        "pressure": "1018.3",
+        "pressure": 1018.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6716,7 +6716,7 @@
         ]
       },
       "properties": {
-        "pressure": "1017.9",
+        "pressure": 1017.9,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6731,7 +6731,7 @@
         ]
       },
       "properties": {
-        "pressure": "1016.3",
+        "pressure": 1016.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
@@ -6746,7 +6746,7 @@
         ]
       },
       "properties": {
-        "pressure": "1015.3",
+        "pressure": 1015.3,
         "marker-color": "#6BC65F",
         "marker-size": "small"
       }
